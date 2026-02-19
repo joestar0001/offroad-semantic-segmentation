@@ -93,9 +93,3 @@ Future enhancements could include:
 ## 🏁 Conclusion
 
 The submitted model successfully performs semantic segmentation with stable training dynamics and competitive validation performance. The solution is reproducible, well-structured, and ready for evaluation.
-
----
-
-## 👨‍💻 Author
-
-Hackathon Participant Submission
